@@ -1,0 +1,11 @@
+Type: Package
+Package: SquareDD
+Title: Calculation the Square of a Number
+Version: 0.1-1
+Date: 2018-10-25
+Author: Mauro Giovanoli [aut,cre]
+Maintainer: Mauro Giovanoli <mauro.giovanoli@uzh.ch>
+Description: A fast, consistent tool for estimating the square of a number.
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+Depends: R (>= 3.1.2)
